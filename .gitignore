@@ -1,0 +1,14 @@
+# Python virtual environments
+venv/
+.env/
+
+# Node modules
+node_modules/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model & dataset files (if not tracked via LFS)
+*.pkl
+*.csv
+*.zip
