@@ -10,5 +10,5 @@ node_modules/
 
 # Model & dataset files (if not tracked via LFS)
 *.pkl
-*.csv
+test_pred.csv
 *.zip
